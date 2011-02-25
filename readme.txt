@@ -4,7 +4,7 @@ Donate link: http://sndevelopment.com/donate/
 Tags: email, contact, form, simple, sn, Captcha
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: trunk
+Stable tag: 1.0
 
 snSimple Email creates a simple email/contact form for your blog.
 
