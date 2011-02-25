@@ -1,0 +1,57 @@
+#sn-simple-email-container{
+	float: left;
+	width: 100%;
+}
+
+	#sn-simple-email-form{
+		float: left;
+		width: 100%;
+	}
+		#sn-simple-email-form p{
+			float: left;
+			width: 100%;
+		}
+	
+		#sn-simple-email-form label{
+			float: left;
+			width: 120px;
+			padding-right: 10px;
+			text-align: right;
+		}
+		
+		#sn-simple-email-form label.error{
+			width: 150px;
+			color: #ff0000;
+			padding-left: 10px;
+			text-align: left;
+			font-style: italic;
+		}
+		
+		#sn-simple-email-form input{
+			float: left;
+			width: 240px;
+		}
+		
+		#sn-simple-email-form textarea{
+			float: left;
+			width: 240px;
+			height: 150px;
+		}
+		
+		#sn-simple-email-form img{
+			float: left;
+			margin: 0px 0px 0px 175px;
+			border: solid 1px #000;
+		}
+		
+		#sn-simple-email-form .simple-email-button{
+			width: 100px;
+			margin-right: 10px;
+		}
+		
+		#sn-simple-form-error{
+			padding: 5px;
+			text-align: center;
+			background: #FFC6C6;
+			border: solid 2px #ff0000;
+		}

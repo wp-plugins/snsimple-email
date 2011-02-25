@@ -1,0 +1,96 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: snSimple Email\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-25 10:03-0500\n"
+"PO-Revision-Date: 2011-02-25 10:03-0500\n"
+"Last-Translator: Sean Newby <seannewby@sndevelopment.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../sn-simple-email.php:70
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: ../sn-simple-email.php:77
+#: ../sn-simple-email.php:139
+msgid "Your Email"
+msgstr ""
+
+#: ../sn-simple-email.php:81
+msgid "Display your email"
+msgstr ""
+
+#: ../sn-simple-email.php:85
+msgid "Human Validation (Captcha)"
+msgstr ""
+
+#: ../sn-simple-email.php:90
+msgid "Save Changes"
+msgstr ""
+
+#: ../sn-simple-email.php:107
+msgid "There was an error processing your message, please try again."
+msgstr ""
+
+#: ../sn-simple-email.php:109
+msgid "The word Verification you entered was incorrect, please try again."
+msgstr ""
+
+#: ../sn-simple-email.php:129
+msgid "To"
+msgstr ""
+
+#: ../sn-simple-email.php:135
+msgid "Your Name"
+msgstr ""
+
+#: ../sn-simple-email.php:143
+#: ../sn-simple-email.php:195
+msgid "Message"
+msgstr ""
+
+#: ../sn-simple-email.php:152
+msgid "Word Verification"
+msgstr ""
+
+#: ../sn-simple-email.php:158
+msgid "Submit"
+msgstr ""
+
+#: ../sn-simple-email.php:159
+msgid "Reset"
+msgstr ""
+
+#: ../sn-simple-email.php:171
+#, php-format
+msgid "You have a new message from %1$s, sent from %2$s"
+msgstr ""
+
+#: ../sn-simple-email.php:177
+#, php-format
+msgid "New message from %s"
+msgstr ""
+
+#: ../sn-simple-email.php:186
+msgid "From"
+msgstr ""
+
+#: ../sn-simple-email.php:189
+msgid "Email"
+msgstr ""
+
+#: ../sn-simple-email.php:192
+msgid "IP"
+msgstr ""
+
+#: ../sn-simple-email.php:209
+msgid "Thank you, your message was sent."
+msgstr ""
+
