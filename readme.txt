@@ -1,10 +1,10 @@
 === snSimple Email===
 Contributors: seannewby
 Donate link: http://sndevelopment.com/donate/
-Tags: email, contact, form, simple, sn, Captcha
+Tags: email, contact, form, simple, Captcha
 Requires at least: 3.0
 Tested up to: 3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 snSimple Email creates a simple email/contact form for your blog.
 
